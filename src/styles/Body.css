@@ -1,0 +1,47 @@
+.body{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_03eMNNVBZ9vWbu0z2SMb_14wCtGQkshlw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding:1rem;
+}
+.title1{
+    font-size: 2rem;
+    color: white;
+    margin-top: 12rem;
+    margin-left: -36rem;
+
+}
+.title2{
+    font-size: 2rem;
+    color: white;
+    margin-left: -47rem;
+    
+}
+.title-button{
+    margin-left: -58rem;
+    border-radius: 70px;
+    margin-bottom: 5rem;
+
+}
+.outer-popular{
+    background-color:#ffffff;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 10px;
+    z-index: 1;
+position: relative;
+}
+.popular{
+    display: flex;
+    justify-content: space-around;
+
+}
+.popular-title{
+    color: green;
+    font-size:smaller;
+}
+.popular-text{
+    font-size: xx-small;
+    text-decoration:underline;
+}

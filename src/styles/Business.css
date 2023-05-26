@@ -1,0 +1,33 @@
+.business{
+    background-color:#ffffff ;
+}
+.business-content{
+    display: flex;
+}
+.cloud{
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px; 
+}
+.till{
+     justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.shiriki{
+     justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}

@@ -1,0 +1,43 @@
+.joinus{
+    background-color: #ffffff;
+}
+.joinus-content{
+    display: flex;
+}
+.customer{
+      justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.supplier{
+  justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;  
+}
+.career{
+       justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+        text-align: center;
+}
+.tittle{
+    color:green;
+    text-align: center;
+}
+.buttons{
+    background-color:green ;
+    border-radius: 50px;
+    color: #ffffff;
+}
