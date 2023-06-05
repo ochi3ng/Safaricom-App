@@ -1,3 +1,4 @@
+@media (min-width: 601px) and (max-width:1600px){
 .connection{
     display:flex;
 }
@@ -20,4 +21,14 @@
 .myconnection{
     padding-right: 3rem;
     color: blue;
+}
+}
+@media (min-width: 200px) and (max-width:600px){
+ .connection{
+    display:block;
+}  
+.myconnection{
+    padding-right: 1rem;
+    color: blue;
+} 
 }

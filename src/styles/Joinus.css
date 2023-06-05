@@ -1,3 +1,4 @@
+@media (min-width: 601px) and (max-width:1600px){
 .joinus{
     background-color: #ffffff;
 }
@@ -52,4 +53,38 @@ padding-right: 1rem;
 font-size:small;
 font-weight: bold;
 width: 290px;
+}
+}
+@media (min-width: 200px) and (max-width:600px){
+    .joinus-content{
+    display: block;
+}
+.customer{
+      justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.supplier{
+  justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;  
+}
+.career{
+       justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+    text-align: center;
+}
 }

@@ -1,4 +1,4 @@
-
+@media (min-width: 601px) and (max-width:1600px){
 .purpose{
 background-color: #f4f4f6;
 }
@@ -34,4 +34,37 @@ display: flex;
 }
 .our-content{
   text-align: center;
+}
+}
+@media (min-width: 200px) and (max-width:600px){
+    .purpose-content{
+display: block;
+}
+.whoweare{
+  justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.impact{
+  justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.brand{
+      justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
 }

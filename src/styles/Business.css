@@ -1,3 +1,4 @@
+@media (min-width: 601px) and (max-width:1600px){
 .business{
     background-color:#ffffff ;
 }
@@ -30,4 +31,37 @@
     margin: 40PX 20PX ;
     background-color:white;
     width: 300px;
+}
+}
+@media (min-width: 200px) and (max-width:600px){
+    .business-content{
+    display: block;
+}
+.cloud{
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px; 
+}
+.till{
+     justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
+.shiriki{
+     justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 40PX 20PX ;
+    background-color:white;
+    width: 300px;
+}
 }

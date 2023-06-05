@@ -1,3 +1,4 @@
+
 .footer{
     background-color:black;
     display: flex;
@@ -30,4 +31,21 @@ margin-top: 0.5rem;
 .footer-title{
     text-align: center;
    font-weight: bolder;
+}
+
+@media (min-width: 200px) and (max-width:600px){
+    .footer-nav{
+    display: block;
+    justify-content: space-around;
+    background-color: #52b44b;
+}
+.nav-image{
+    height: 90px;
+margin-top: 0.5rem;
+}
+   .footer{
+    background-color:black;
+    display: block;
+    justify-content:space-around;
+} 
 }
