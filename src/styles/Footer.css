@@ -1,0 +1,33 @@
+.footer{
+    background-color:black;
+    display: flex;
+    justify-content:space-around;
+}
+.footer-content{
+    color:white;
+        font-size:small;
+}
+.footer-content:hover{
+    cursor: pointer;
+}
+.footer-nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #52b44b;
+}
+.nav-image{
+    height: 50px;
+margin-top: 0.5rem;
+}
+.nav-title{
+    color: white;
+
+}
+.footer-details{
+    color: grey;
+    margin-bottom: 1rem;
+}
+.footer-title{
+    text-align: center;
+   font-weight: bolder;
+}

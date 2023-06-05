@@ -13,3 +13,11 @@
     background-color:white;
     width: 300px;
 }
+.connections{
+    display: flex;
+    padding-left: 2rem;
+}
+.myconnection{
+    padding-right: 3rem;
+    color: blue;
+}

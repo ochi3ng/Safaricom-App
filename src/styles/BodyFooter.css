@@ -18,7 +18,7 @@
     overflow: hidden;
     margin: 40PX 20PX ;
     background-color:#2cb34a;
-    width: 600px;
+    width: 300px;
 }
 .image1-div{
      justify-content: space-between;
@@ -27,7 +27,7 @@
     overflow: hidden;
     margin: 40PX 20PX ;
     background-color:white;
-    width: 200px;
+    width: 300px;
 }.images-div{
      justify-content: space-between;
     border: 1px solid black;
@@ -67,4 +67,8 @@ color: white;
 }
 .h1-text{
     color: #2cb34a;
+}
+.imageone{
+    width: 30vw;
+    height: 40vh;
 }

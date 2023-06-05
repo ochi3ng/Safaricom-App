@@ -13,3 +13,14 @@ background-color: #f4f4f6;
     background-color:white;
     width: 300px;
 }
+.withdraw-button{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 3px;
+}
+.mpesa-button{
+    border-radius: 50px;
+    background-color: green;
+    margin-bottom: 2rem;
+}

@@ -11,23 +11,29 @@ function OurPurpose() {
         <div className='whoweare'>
                   <img src='https://www.safaricom.co.ke/images/whoweare.jpg' alt=''/>
                   <h1 className='tittle'>Who we are</h1>
-                  <div>Our Story</div>
-                  <div>Leadership</div>
-                  <div>Our Journey</div>
+                 <div className='our-content'>
+            <div>Our Story</div>
+            <div>Leadership</div>
+            <div>Our Journey</div>
+                 </div>
         </div>
               <div className='impact'>
                   <img src='https://www.safaricom.co.ke/images/impact1.jpg' alt='' />
                   <h1 className='tittle'>Our Impact</h1>
-                  <div>Safaricom Foundation</div>
-                  <div>M-PESA Foundation</div>
-                  <div>Sustainability</div>
+          <div className='our-content'>
+            <div>Safaricom Foundation</div>
+            <div>M-PESA Foundation</div>
+            <div>Sustainability</div>
+                  </div>
               </div>
               <div className='brand'>
                   <img src='https://www.safaricom.co.ke/images/golftour.jpg' alt='' />
                   <h1 className='tittle'>Our Brand</h1>
-                  <div>Brand toolkit</div>
-                  <div>Brand Assets</div>
-                  <div>Brand Campaigns</div>
+          <div className='our-content'>
+            <div>Brand toolkit</div>
+            <div>Brand Assets</div>
+            <div>Brand Campaigns</div>
+                  </div>
               </div>
       </div>
       <Joinus/>

@@ -30,7 +30,7 @@
     margin: 40PX 20PX ;
     background-color:white;
     width: 300px;
-        text-align: center;
+    text-align: center;
 }
 .tittle{
     color:green;
@@ -40,4 +40,16 @@
     background-color:green ;
     border-radius: 50px;
     color: #ffffff;
+    width: 200px;
+    font-size: larger;
+   margin-left: 3rem;
+   margin-bottom: 2rem;
+}
+.career-details{
+text-align: center;
+padding-left: 1rem;
+padding-right: 1rem;
+font-size:small;
+font-weight: bold;
+width: 290px;
 }
